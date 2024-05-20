@@ -1,2 +1,2 @@
-# integration-testing
+# integration-testing-amazing
 nothing interesting here
